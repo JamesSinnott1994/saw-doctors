@@ -78,25 +78,25 @@ The website will be broken down into five areas in order to achieve the project 
 
 ### Skeleton
 1. Home Page Wireframe:
-    - [Mobile](https://github.com/JamesSinnott1994/saw-doctors/wireframes/home/home-mobile.png)
-    - [Tablet](https://github.com/JamesSinnott1994/saw-doctors/wireframes/home/home-tablet.png)
-    - [Desktop](https://github.com/JamesSinnott1994/saw-doctors/wireframes/home/home-desktop.png)
+    - [Mobile](https://github.com/JamesSinnott1994/saw-doctors/blob/master/wireframes/home/home-mobile.png)
+    - [Tablet](https://github.com/JamesSinnott1994/saw-doctors/blob/master/wireframes/home/home-tablet.png)
+    - [Desktop](https://github.com/JamesSinnott1994/saw-doctors/blob/master/wireframes/home/home-desktop.png)
 2. About Page Wireframe:
-    - [Mobile](https://github.com/JamesSinnott1994/saw-doctors/wireframes/about/about-mobile.png)
-    - [Tablet](https://github.com/JamesSinnott1994/saw-doctors/wireframes/about/about-tablet.png)
-    - [Desktop](https://github.com/JamesSinnott1994/saw-doctors/wireframes/about/about-desktop.png)
+    - [Mobile](https://github.com/JamesSinnott1994/saw-doctors/blob/master/wireframes/about/about-mobile.png)
+    - [Tablet](https://github.com/JamesSinnott1994/saw-doctors/blob/master/wireframes/about/about-tablet.png)
+    - [Desktop](https://github.com/JamesSinnott1994/saw-doctors/blob/master/wireframes/about/about-desktop.png)
 3. Videos Page Wireframe:
-    - [Mobile](https://github.com/JamesSinnott1994/saw-doctors/wireframes/videos/videos-mobile.png)
-    - [Tablet](https://github.com/JamesSinnott1994/saw-doctors/wireframes/videos/videos-tablet.png)
-    - [Desktop](https://github.com/JamesSinnott1994/saw-doctors/wireframes/videos/videos-desktop.png)
+    - [Mobile](https://github.com/JamesSinnott1994/saw-doctors/blob/master/wireframes/videos/videos-mobile.png)
+    - [Tablet](https://github.com/JamesSinnott1994/saw-doctors/blob/master/wireframes/videos/videos-tablet.png)
+    - [Desktop](https://github.com/JamesSinnott1994/saw-doctors/blob/master/wireframes/videos/videos-desktop.png)
 4. Shop Page Wireframe:
-    - [Mobile](https://github.com/JamesSinnott1994/saw-doctors/wireframes/shop/shop-mobile.png)
-    - [Tablet](https://github.com/JamesSinnott1994/saw-doctors/wireframes/shop/shop-tablet.png)
-    - [Desktop](https://github.com/JamesSinnott1994/saw-doctors/wireframes/shop/shop-desktop.png)
+    - [Mobile](https://github.com/JamesSinnott1994/saw-doctors/blob/master/wireframes/shop/shop-mobile.png)
+    - [Tablet](https://github.com/JamesSinnott1994/saw-doctors/blob/master/wireframes/shop/shop-tablet.png)
+    - [Desktop](https://github.com/JamesSinnott1994/saw-doctors/blob/master/wireframes/shop/shop-desktop.png)
 5. Contact Page Wireframe:
-    - [Mobile](https://github.com/JamesSinnott1994/saw-doctors/wireframes/contact/contact-mobile.png)
-    - [Tablet](https://github.com/JamesSinnott1994/saw-doctors/wireframes/contact/contact-tablet.png)
-    - [Desktop](https://github.com/JamesSinnott1994/saw-doctors/wireframes/contact/contact-desktop.png)
+    - [Mobile](https://github.com/JamesSinnott1994/saw-doctors/blob/master/wireframes/contact/contact-mobile.png)
+    - [Tablet](https://github.com/JamesSinnott1994/saw-doctors/blob/master/wireframes/contact/contact-tablet.png)
+    - [Desktop](https://github.com/JamesSinnott1994/saw-doctors/blob/master/wireframes/contact/contact-desktop.png)
 
 ### Surface
 - Typography:
