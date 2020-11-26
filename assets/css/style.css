@@ -2,6 +2,13 @@ body {
     background-color: tomato;
 }
 
+#hero-image {
+}
+
 footer {
+    height: 50px;
     background: slateblue;
+    right: 0;
+    bottom: 0;
+    left: 0;
 }
