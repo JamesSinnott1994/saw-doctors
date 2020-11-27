@@ -20,8 +20,23 @@ body {
 	background-size: cover;
 
     height: 100%;
+
+    position: relative;
+
+    /* Centres h1 text at bottom of image */
+    /* Got help from W3Schools for the code below: */
+    /* https://www.w3schools.com/cssref/css3_pr_align-items.asp */
+    /* https://www.w3schools.com/cssref/css3_pr_justify-content.asp */
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
 }
 
+h1 {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
 
 footer {
     height: 50px;
