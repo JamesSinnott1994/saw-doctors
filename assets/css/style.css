@@ -2,8 +2,26 @@ body {
     background-color: tomato;
 }
 
-#hero-image {
+#hero-outer {
+	height: 400px;
+	background-color: forestgreen;
+
+	padding: 0;
+	margin: 0;
 }
+
+#hero-image {
+    background-image: url("../images/hero-image.PNG");
+	background-repeat: no-repeat;
+	background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+	background-size: cover;
+
+    height: 100%;
+}
+
 
 footer {
     height: 50px;
