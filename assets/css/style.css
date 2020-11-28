@@ -40,25 +40,32 @@ h1 {
     text-align: center;
 }
 
-.card-section {
+/*--------------------------------------------HOMEPAGE*/
+
+#latest-news {
+    
+}
+
+#latest-news h2 {
+    margin: 2em auto;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.card {
+    min-height: 300px;
     display: flex;
     align-items: flex-end;
     justify-content: center;
 }
 
-.card {
-    position: relative;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-direction: column;
-    flex-direction: column;
-    min-width: 0;
-    word-wrap: break-word;
-    background-clip: border-box;
-    border: 1px solid rgba(0,0,0,.125);
-    border-radius: .25rem;
-    background-color: #fff;
+#latest-news .card {
+    margin: 1em auto;
+    text-align: center;
+    max-width: 80%;
 }
+
+/*--------------------------------------------HOMEPAGE*/
 
 footer {
     height: 50px;
