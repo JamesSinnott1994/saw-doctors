@@ -87,7 +87,6 @@ main {
     display: flex;
     align-items: flex-end;
     justify-content: center;
-    background-color: rgb(214, 143, 97);
     background: linear-gradient(to right, rgb(214, 143, 97), rgb(192, 66, 66));
     margin: 1em auto;
     text-align: center;
@@ -109,8 +108,9 @@ main {
 
 footer {
     height: 50px;
-    background: slateblue;
+    background: linear-gradient(to right, rgb(214, 143, 97), rgb(192, 66, 66));
     right: 0;
     bottom: 0;
     left: 0;
+    border-top: 4px solid white;
 }
