@@ -107,7 +107,7 @@ main {
 /*--------------------------------------------HOMEPAGE*/
 
 footer {
-    height: 50px;
+    height: 100px;
     background: linear-gradient(to right, rgb(214, 143, 97), rgb(192, 66, 66));
     right: 0;
     bottom: 0;
