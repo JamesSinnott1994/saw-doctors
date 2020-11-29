@@ -30,11 +30,13 @@ nav a {
 /*--------------------------------------------HEADER*/
 
 #hero-outer {
-	height: 400px;
+	height: 75vh;
 	background-color: forestgreen;
 
 	padding: 0;
 	margin: 0;
+
+    border-bottom: 4px solid #fffdd0;
 }
 
 #hero-image {
