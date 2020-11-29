@@ -4,6 +4,31 @@ body {
     background-color: tomato;
 }
 
+/*--------------------------------------------HEADER*/
+
+nav {
+    /* Help with linear-gradient from https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient() */
+    background: linear-gradient(to right, rgb(125, 151, 166), rgb(68, 89, 110));
+    border-bottom: 4px solid white;
+}
+
+nav a {
+    color: #fffdd0;
+    font-family: Oswald;
+    font-size: 1.25em;
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.navbar-brand {
+    font-size: 2.5em;
+    font-weight: bold;
+    letter-spacing: 5px;
+    font-style: italic;
+}
+
+/*--------------------------------------------HEADER*/
+
 #hero-outer {
 	height: 400px;
 	background-color: forestgreen;
