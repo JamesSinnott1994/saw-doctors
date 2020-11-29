@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Oswald:100,200,300,400,500,600,700');
 
 body {
-    background-color: tomato;
+    background: radial-gradient(rgb(68, 89, 110), rgb(125, 151, 166));
 }
 
 /*--------------------------------------------HEADER*/
@@ -73,6 +73,7 @@ h1 {
     margin: 2em auto;
     text-align: center;
     text-decoration: underline;
+    color: white;
 }
 
 .card {
