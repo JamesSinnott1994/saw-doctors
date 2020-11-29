@@ -67,6 +67,10 @@ h1 {
     text-align: center;
 }
 
+main {
+    margin-bottom: 4em;
+}
+
 /*--------------------------------------------HOMEPAGE*/
 
 .card-section h2 {
