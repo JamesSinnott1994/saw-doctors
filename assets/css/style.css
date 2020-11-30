@@ -131,6 +131,7 @@ footer {
     min-height: 100px;
     margin: 0;
     color: white;
+    border-top: 4px solid white;
 }
 
 #footer-details {
