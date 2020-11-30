@@ -120,6 +120,14 @@ main {
     justify-content: center;
 }
 
+.btn-warning {
+    color: #212529;
+    background-color: white;
+    border-color: white;
+}
+
+/* background: linear-gradient(to right, rgb(214, 143, 97), rgb(192, 66, 66));  */
+
 .card-width {
     width: 80%;
 }
