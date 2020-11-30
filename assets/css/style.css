@@ -95,6 +95,16 @@ main {
     border: 4px solid #fffdd0;
 }
 
+.card a {
+    color: black;
+    display: inline-block;
+}
+
+.card a:hover {
+    color: white;
+    text-decoration: none;
+}
+
 .card p {
     font-family: Roboto, sans-serif;
     font-size: 1.25em;
