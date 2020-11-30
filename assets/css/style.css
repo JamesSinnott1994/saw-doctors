@@ -107,16 +107,27 @@ main {
 /*--------------------------------------------HOMEPAGE*/
 
 footer {
-    height: 100px;
     background: linear-gradient(to right, rgb(214, 143, 97), rgb(192, 66, 66));
-    right: 0;
-    bottom: 0;
-    left: 0;
-    border-top: 4px solid white;
+    min-height: 100px;
+    margin: 0;
+    color: white;
 }
 
-.social-links {
-    padding-bottom: 15px;
+#footer-details {
+    padding: 20px;
+}
+
+footer h6 {
+    line-height: 32px;
+}
+
+.right {
+    text-align: right;
+}
+
+#social-wrapper {
+    display: inline-block;
+    text-align: center;
 }
 
 .social-links li a i {
