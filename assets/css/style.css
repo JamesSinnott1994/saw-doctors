@@ -114,13 +114,17 @@ main {
     -moz-background-size: cover;
     -o-background-size: cover;
 	background-size: cover;
+
+    /* Got this from W3School for hovering over the image */
+    /* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_opacity */
+    opacity: 1;
+    transition: .5s ease;
+    backface-visibility: hidden;
 }
 
-#about-image {
-    width: 100%;
-    height: 100%;
+#about-card:hover {
+    opacity: 0.7;
 }
-
 
 .card a {
     color: black;
