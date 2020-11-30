@@ -31,7 +31,7 @@ nav a {
 
 #hero-outer {
 	height: 80vh;
-	background-color: forestgreen;
+	background: linear-gradient(to right, rgb(125, 151, 166), rgb(68, 89, 110));
 
 	padding: 0;
 	margin: 0;
