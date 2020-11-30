@@ -95,6 +95,16 @@ main {
     border: 4px solid #fffdd0;
 }
 
+.card p {
+    font-family: Roboto, sans-serif;
+    font-size: 1.25em;
+}
+
+.card h3 {
+    font-family: Oswald, sans-serif;
+    letter-spacing: 2px;
+}
+
 .play-btn {
     align-items: center;
     justify-content: center;
