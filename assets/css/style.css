@@ -162,6 +162,21 @@ main {
 
 /*--------------------------------------------HOMEPAGE*/
 
+/*--------------------------------------------ABOUT PAGE*/
+
+.members-img {
+    /* -ms-flex-negative: 0;
+    flex-shrink: 0;
+    width: 100%;
+    border-top-left-radius: calc(.25rem - 1px);
+    border-top-right-radius: calc(.25rem - 1px); */
+    width: 75%;
+    border-radius: 50%;
+    border: 4px solid white;
+}
+
+/*--------------------------------------------ABOUT PAGE*/
+
 footer {
     background: linear-gradient(to right, rgb(214, 143, 97), rgb(192, 66, 66));
     min-height: 100px;
