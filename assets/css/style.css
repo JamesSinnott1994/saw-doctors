@@ -175,6 +175,13 @@ main {
     border: 4px solid white;
 }
 
+.history-img {
+    width: 90%;
+    margin: 0 auto;
+    height: 300px;
+    border: 4px solid white;
+}
+
 /*--------------------------------------------ABOUT PAGE*/
 
 footer {
@@ -216,4 +223,42 @@ footer h6 {
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
+}
+
+/*--------------------------------------------MEDIA QUERIES*/
+
+/* // Extra small devices (portrait phones, less than 576px)
+// No media query since this is the default in Bootstrap */
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+    .history-img {
+        width: 80%;
+        min-height: 300px;
+    }
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .history-img {
+        width: 90%;
+        min-height: 400px;
+    }
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    .history-img {
+        width: 90%;
+        min-height: 500px;
+    }
+
+}
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .history-img {
+        width: 90%;
+        min-height: 400px;
+    }
 }
