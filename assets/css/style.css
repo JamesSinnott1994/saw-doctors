@@ -184,6 +184,27 @@ main {
 
 /*--------------------------------------------ABOUT PAGE*/
 
+/*--------------------------------------------VIDEO PAGE*/
+
+.video-container {
+    width: 80%;
+    min-height: 550px;
+    margin-bottom: 2em;
+}
+
+#main-video {
+    width: 100%;
+    height: 100%;
+    border: 4px solid white;
+}
+
+.video-row-container {
+    text-align: center;
+    height: 550px;
+}
+
+/*--------------------------------------------VIDEO PAGE*/
+
 footer {
     background: linear-gradient(to right, rgb(214, 143, 97), rgb(192, 66, 66));
     min-height: 100px;
