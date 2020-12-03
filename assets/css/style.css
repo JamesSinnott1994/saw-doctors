@@ -228,6 +228,16 @@ main {
     border: 4px solid white;
 }
 
+.music-img {
+    /* -ms-flex-negative: 0;
+    flex-shrink: 0;
+    width: 100%;
+    border-top-left-radius: calc(.25rem - 1px);
+    border-top-right-radius: calc(.25rem - 1px); */
+    width: 90%;
+    border: 2px solid white;
+}
+
 /*--------------------------------------------VIDEO PAGE*/
 
 footer {
