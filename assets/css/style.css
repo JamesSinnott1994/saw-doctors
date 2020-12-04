@@ -240,6 +240,15 @@ main {
 
 /*--------------------------------------------VIDEO PAGE*/
 
+/*--------------------------------------------SHOP PAGE*/
+
+.album-img {
+    width: 90%;
+    border: 2px solid white;
+}
+
+/*--------------------------------------------SHOP PAGE*/
+
 footer {
     background: linear-gradient(to right, rgb(214, 143, 97), rgb(192, 66, 66));
     min-height: 100px;
