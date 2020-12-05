@@ -130,18 +130,22 @@
     <footer class="container-fluid">
         <div id="footer-details" class="row">
             <div class="col-sm-6 text-sm-left text-center">
-                <h5 class="uppercase general-sub">&copy; The Saw Doctors 2020</h5>
-                <h6 class="uppercase general-sub">ALL RIGHTS RESERVED</h6>
+                <!-- ".footer-content-wrapper" is used here so that we can center the content of this div -->
+                <!-- the div itself is aligned to the "left" of the parent container -->
+                <div class="footer-content-wrapper">
+                    <h5 class="uppercase general-sub">&copy; The Saw Doctors 2020</h5>
+                    <h6 class="uppercase general-sub">ALL RIGHTS RESERVED</h6>
+                </div>
             </div>
 
             <div class="col-sm-6 text-sm-right text-center">
-                <!-- "social-wrapper" is used here so that we can center the content of this div -->
+                <!-- ".footer-content-wrapper" is used here so that we can center the content of this div -->
                 <!-- the div itself is aligned to the "right" of the parent container -->
-                <div id="social-wrapper">
-                    <h5 class="uppercase general-sub">Social Media</h5>
+                <div class="footer-content-wrapper">
+                    <h5 class="uppercase general-sub d-none d-sm-block">Social Media</h5>
 
                     <ul class="list-inline social-links">
-                        <!-- Facebook -->
+                                <!-- Facebook -->
                                 <li class="list-inline-item">
                                     <a href="https://facebook.com" target="_blank">
                                         <i class="fab fa-facebook-f" aria-hidden="true"></i>
@@ -180,7 +184,6 @@
                                         <span class="sr-only">Instagram</span>
                                     </a>
                                 </li>
-
                     </ul>
                 </div>  
 
