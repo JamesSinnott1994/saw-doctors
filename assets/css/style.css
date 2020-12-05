@@ -109,13 +109,13 @@ main {
     background: linear-gradient(to right, rgb(214, 143, 97), rgb(192, 66, 66));
     margin: 1em auto;
     text-align: center;
-    max-width: 80%;
+    width: 80%;
     color: white;
     border: 4px solid white;
 
     background-image: url("../images/saw-doctors-who-we-are.jpg");
 	background-repeat: no-repeat;
-	background-position: left top;
+	background-position: center top;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
