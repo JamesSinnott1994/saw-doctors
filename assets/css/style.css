@@ -283,7 +283,7 @@ footer h6 {
     line-height: 32px;
 }
 
-#social-wrapper {
+.footer-content-wrapper {
     display: inline-block;
     text-align: center;
 }
