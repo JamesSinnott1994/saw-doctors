@@ -167,6 +167,10 @@ main {
     width: 80%;
 }
 
+#latest-news-img {
+    border: 4px solid white;
+}
+
 /*--------------------------------------------ABOUT PAGE*/
 
 .members-img {
