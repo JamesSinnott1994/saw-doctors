@@ -252,6 +252,10 @@ main {
     border: 4px solid white;
 }
 
+.contact-card i {
+    font-size: 1.5em;
+}
+
 .contact-card-section {
     margin: 0;
     padding: 0;
