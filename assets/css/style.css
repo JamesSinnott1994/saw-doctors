@@ -236,6 +236,7 @@ h2 {
 .album-container {
     position: relative;
     width: 90%;
+    margin: 0 auto;
 }
 
 .album-img {
