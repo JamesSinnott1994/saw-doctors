@@ -175,12 +175,13 @@ h2 {
 
 .card p {
     font-family: Roboto, sans-serif;
-    font-size: 1.25em;
+    font-size: 1em;
 }
 
 .card h3 {
     font-family: Oswald, sans-serif;
     letter-spacing: 2px;
+    font-size: 1em;
 }
 
 .play-btn {
@@ -390,6 +391,13 @@ footer h6 {
         max-width: 90%;
         border-left: 4px solid white;
         border-right: 4px solid white;
+    }
+    .card p {
+        font-size: 1.25em;
+    }
+
+    .card h3 {
+        font-size: 1.25em;
     }
     .history-img {
         width: 80%;
