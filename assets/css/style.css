@@ -21,7 +21,7 @@ nav a {
 }
 
 .navbar-brand {
-    font-size: 2.5em;
+    font-size: 1.5em;
     font-weight: bold;
     letter-spacing: 5px;
     font-style: italic;
@@ -71,6 +71,7 @@ h1 {
     border: 2px solid rgb(68, 89, 110);
     font-family: Oswald;
     letter-spacing: 2px;
+    font-size: 1.5em;
 }
 
 main {
@@ -80,13 +81,14 @@ main {
 
 /*--------------------------------------------HOMEPAGE*/
 
-.card-section h2 {
+h2 {
     margin: 2em auto;
     text-align: center;
     color: white;
     text-transform: uppercase;
     font-family: Oswald;
     letter-spacing: 0.25em;
+    font-size: 1em;
 }
 
 .card {
@@ -322,15 +324,6 @@ main {
     padding: 0;
 }
 
-.contact-card-section h2 {
-    margin: 2em auto;
-    text-align: center;
-    color: white;
-    text-transform: uppercase;
-    font-family: Oswald;
-    letter-spacing: 0.25em;
-}
-
 form {
     width: 90%;
     margin: 0 auto;
@@ -410,6 +403,15 @@ footer h6 {
 
 /* // Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
+    .navbar-brand {
+        font-size: 2em;
+    }
+    h1 {
+        font-size: 2em;
+    }
+    h2 {
+        font-size: 2em;
+    }
     .history-img {
         width: 80%;
         min-height: 300px;
@@ -418,6 +420,9 @@ footer h6 {
 
 /* // Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
+    .navbar-brand {
+        font-size: 2.5em;
+    }
     .history-img {
         width: 90%;
         min-height: 400px;
