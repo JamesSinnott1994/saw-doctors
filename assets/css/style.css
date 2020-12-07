@@ -142,7 +142,7 @@ main {
   transition: .5s ease;
   opacity: 0;
   position: absolute;
-  top: 50%;
+  top: 85%;
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -257,9 +257,31 @@ main {
 
 /*--------------------------------------------SHOP PAGE*/
 
+.album-container {
+    position: relative;
+}
+
 .album-img {
     width: 90%;
     border: 2px solid white;
+
+    opacity: 1;
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
+
+.album-container:hover .album-img {
+    opacity: 0.7;
+}
+
+.album-container:hover .middle {
+  opacity: 1;
+}
+
+.button-text {
+  background-color: white;
+  color: black;
+  font-size: 16px;
 }
 
 /*--------------------------------------------CONTACT PAGE*/
