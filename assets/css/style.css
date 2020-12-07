@@ -235,10 +235,11 @@ h2 {
 
 .album-container {
     position: relative;
+    width: 90%;
 }
 
 .album-img {
-    width: 90%;
+    width: 100%;
     border: 2px solid white;
 
     opacity: 1;
