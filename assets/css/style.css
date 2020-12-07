@@ -282,7 +282,7 @@ h2 {
     align-items: flex-end;
     justify-content: center;
     background: linear-gradient(to right, rgb(214, 143, 97), rgb(192, 66, 66));
-    margin: 7em auto;
+    margin: 1em auto;
     text-align: center;
     max-width: 100%;
     color: white;
