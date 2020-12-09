@@ -11,6 +11,7 @@ Link to the deployed website is [here](https://jamessinnott1994.github.io/saw-do
     - [Structure](#structure)
     - [Skeleton](#skeleton)
     - [Surface](#surface)
+- [Technologies](#technologies)
 
 ## User Experience (UX)
 
@@ -111,3 +112,29 @@ The website will be broken down into five areas in order to achieve the project 
 - Effects:
     - There will be a hover effect over the links in the navigation bar.
     - There will be a hover effect over the social media icons in the footer of the page.
+
+## Technologies
+
+### Workspace
+
+- Gitpod
+
+### Languages
+
+- HTML5
+- CSS3
+
+### Frameworks & Libraries
+
+- Bootstrap4
+- Font Awesome
+- Google Fonts
+
+### Version Control
+
+- Git
+- Github
+
+### Wireframes
+
+- Balsamiq
