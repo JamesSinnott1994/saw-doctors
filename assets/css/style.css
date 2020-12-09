@@ -319,6 +319,10 @@ footer h6 {
     -o-transition: all 0.35s ease-in-out;
 }
 
+.social-links li a i:hover {
+    background: radial-gradient(rgb(214, 143, 97), rgb(192, 66, 66));
+}
+
 /*--------------------------------------------SCROLLBAR*/
 
 /* Code for custom scrollbar gotten from W3Schools */
