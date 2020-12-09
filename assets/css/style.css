@@ -290,6 +290,14 @@ footer {
     padding: 20px;
 }
 
+h5 {
+    font-size: 1em;
+}
+
+h6 {
+    font-size: 0.95em;
+}
+
 footer h6 {
     line-height: 32px;
 }
@@ -364,6 +372,13 @@ footer h6 {
     h2 {
         font-size: 2em;
         margin: 2em auto;
+    }
+    h5 {
+        font-size: 1.2em;
+    }
+
+    h6 {
+        font-size: 1.2;
     }
     .card {
         max-width: 90%;
