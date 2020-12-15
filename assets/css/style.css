@@ -20,7 +20,7 @@ nav a {
     margin-right: 5px;
 }
 
-.navbar-brand {
+.navbar-logo {
     font-size: 1.5em;
     font-weight: bold;
     letter-spacing: 5px;
@@ -34,20 +34,20 @@ main {
 }
 
 #hero-outer {
-	height: 80vh;
-	padding: 0;
-	margin: 0;
+    height: 80vh;
+    padding: 0;
+    margin: 0;
     border-bottom: 4px solid white;
 }
 
 #hero-image {
     background-image: url("../images/hero-image.PNG");
-	background-repeat: no-repeat;
-	background-position: center;
+    background-repeat: no-repeat;
+    background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-	background-size: cover;
+    background-size: cover;
 
     height: 100%;
 
@@ -135,12 +135,12 @@ h2 {
 
 #about-card-img {
     background-image: url("../images/saw-doctors-who-we-are.jpg");
-	background-repeat: no-repeat;
-	background-position: center top;
+    background-repeat: no-repeat;
+    background-position: center top;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-	background-size: cover;
+    background-size: cover;
 
     width: 100%;
     min-height: 500px;
@@ -363,7 +363,7 @@ footer h6 {
 
 /* // Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
-    .navbar-brand {
+    .navbar-logo {
         font-size: 2em;
     }
     h1 {
@@ -406,7 +406,7 @@ footer h6 {
 
 /* // Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
-    .navbar-brand {
+    .navbar-logo {
         font-size: 2.5em;
     }
     .card {
