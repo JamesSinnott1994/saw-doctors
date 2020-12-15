@@ -48,7 +48,6 @@ main {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-
     height: 100%;
 
     /* Centres h1 text at bottom of image */
@@ -141,7 +140,6 @@ h2 {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-
     width: 100%;
     min-height: 500px;
 
@@ -311,16 +309,12 @@ footer h6 {
     width: 32px;
     height: 32px;
     padding: 12px 0;
-
     font-size: 13px;
     line-height: 7px;
-
     border-radius: 50%;
     border: 1px solid gray;
-
     color: #fafafa;
     background: radial-gradient(rgb(125, 151, 166), rgb(68, 89, 110));
-
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
