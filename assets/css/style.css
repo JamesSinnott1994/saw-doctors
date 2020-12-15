@@ -363,33 +363,22 @@ footer h6 {
 
 /* // Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
-    .navbar-logo {
-        font-size: 2em;
-    }
-    h1 {
+    .navbar-logo, h1 {
         font-size: 2em;
     }
     h2 {
         font-size: 2em;
         margin: 2em auto;
     }
-    h5 {
+    h5, h6 {
         font-size: 1.2em;
-    }
-
-    h6 {
-        font-size: 1.2;
     }
     .card {
         max-width: 90%;
         border-left: 4px solid white;
         border-right: 4px solid white;
     }
-    .card p {
-        font-size: 1.25em;
-    }
-
-    .card h3 {
+    .card p, .card h3 {
         font-size: 1.25em;
     }
     .history-img {
@@ -398,7 +387,6 @@ footer h6 {
     }
     .contact-card {
         max-width: 90%;
-        border: 4px solid white;
         border-left: 4px solid white;
         border-right: 4px solid white;
     }
@@ -409,7 +397,7 @@ footer h6 {
     .navbar-logo {
         font-size: 2.5em;
     }
-    .card {
+    .card, .contact-card {
         max-width: 80%;
     }
     .history-img {
@@ -422,15 +410,11 @@ footer h6 {
     .video-card {
         max-width: 70%;
     }
-    .contact-card {
-        max-width: 80%;
-    }
 }
 
 /* // Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
     .history-img {
-        width: 90%;
         min-height: 500px;
     }
 }
@@ -438,7 +422,6 @@ footer h6 {
 /* // Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
     .history-img {
-        width: 90%;
         min-height: 400px;
     }
 }
