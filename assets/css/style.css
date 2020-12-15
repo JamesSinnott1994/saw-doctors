@@ -304,9 +304,9 @@ footer h6 {
     font-size: 13px;
     line-height: 7px;
     border-radius: 50%;
-    border: 1px solid gray;
+    border: 1px solid #A9A9A9;
     color: #fafafa;
-    background: radial-gradient(rgb(125, 151, 166), rgb(68, 89, 110));
+    background: rgb(96, 120, 138);
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -314,7 +314,7 @@ footer h6 {
 }
 
 .social-links li a i:hover {
-    background: radial-gradient(rgb(214, 143, 97), rgb(192, 66, 66));
+    background: rgb(214, 143, 97);
 }
 
 /*--------------------------------------------SCROLLBAR*/
