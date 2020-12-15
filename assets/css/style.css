@@ -169,11 +169,6 @@ h2 {
   opacity: 1;
 }
 
-.about-btn-popup {
-  font-size: 16px;
-  padding: 16px 32px;
-}
-
 .play-btn {
     align-items: center;
     justify-content: center;
@@ -356,7 +351,7 @@ footer h6 {
         font-size: 2em;
         margin: 2em auto;
     }
-    h5, h6 {
+    h5 h6 {
         font-size: 1.2em;
     }
     .card {
