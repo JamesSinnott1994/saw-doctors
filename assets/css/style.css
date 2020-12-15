@@ -170,8 +170,6 @@ h2 {
 }
 
 .about-btn-popup {
-  background-color: #4CAF50;
-  color: white;
   font-size: 16px;
   padding: 16px 32px;
 }
@@ -181,7 +179,7 @@ h2 {
     justify-content: center;
 }
 
-.btn-warning {
+.custom-btn {
     color: #212529;
     background-color: white;
     border-color: white;
@@ -249,12 +247,6 @@ h2 {
 
 .album-container:hover .popup-container {
   opacity: 1;
-}
-
-.button-popup {
-  background-color: white;
-  color: black;
-  font-size: 16px;
 }
 
 /*--------------------------------------------CONTACT PAGE*/
