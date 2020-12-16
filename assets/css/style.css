@@ -91,12 +91,12 @@ h2 {
     border-bottom: 4px solid white;
 }
 
-.card a {
+#media-link {
     color: black;
     display: inline-block;
 }
 
-.card a:hover {
+#media-link:hover {
     color: white;
     text-decoration: none;
 }
