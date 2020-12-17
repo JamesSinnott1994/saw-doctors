@@ -12,7 +12,10 @@ Link to the deployed website is [here](https://jamessinnott1994.github.io/saw-do
     - [Skeleton](#skeleton)
     - [Surface](#surface)
 - [Technologies](#technologies)
+- [Testing](#testing)
+- [Bugs](#bugs)
 - [Deployment](#deployment)
+- [Credits](#credits)
 
 ## User Experience (UX)
 
@@ -146,6 +149,12 @@ The website will be broken down into five areas in order to achieve the project 
 - Balsamiq
 
 ---
+## Testing
+
+---
+## Bugs
+
+---
 ## Deployment
 ### Deploying to Github pages
 The site is deployed on GitHub pages. The setup involved was:
@@ -159,3 +168,12 @@ The site is deployed on GitHub pages. The setup involved was:
 ### Creating a local clone
 - Project can be downloaded as a .zip file by clicking the 'Code' button in the project repository and clicking 'Download ZIP'.
 - Project can also be cloned by entering `git clone https://github.com/JamesSinnott1994/saw-doctors.git` in the terminal.
+
+---
+## Credits
+### Code
+### Images Source Attribution
+- Hero image:
+    - https://www.facebook.com/sawdoctors/
+
+### Acknowledgements
