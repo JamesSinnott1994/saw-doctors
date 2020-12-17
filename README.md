@@ -56,7 +56,7 @@ As a **site owner**, I want:
     - Give a brief history of the band and who the members are.
     - Provide details for contacting the band for general queries and for bookings.
     - Shop area where songs & merchandise can be purchased.
-    - Video area where the user can click to play music videos.
+    - Media area where the user can click to play music videos and songs.
     - Footer area that links to the band’s social media accounts.
     - Built using best practices of semantic HTML and accessibility.
     - Be fully responsive for mobile use.
@@ -70,13 +70,14 @@ The website will be broken down into five areas in order to achieve the project 
 2.	About Page:
 - The About Page will give a history of the band and all of the successes they have had in their career.
 - The page will also show pictures of the band’s members at the bottom of the page.
-3.	Videos Page:
-- The Videos Page will showcase at least three of the band’s most successful songs. This is to encourage potential fans to listen to more of the band’s music.
+3.	Media Page:
+- The Media Page will showcase some of the band’s most successful songs. This is to encourage potential fans to listen to more of the band’s music.
 4.	Shop Page:
 - The Shop Page will allow fans to purchase the band’s music/merchandise.
 - At least eight album pictures will be shown on this page, with four being arranged on each line. Underneath the album picture, the name of the album and it’s price will be displayed. A button will also be here that will allow the user to buy the album.
 5.	Contact Page:
 - The Contact Page will contain a simple form which will allow fans and potential fans to contact the band for booking and general queries
+- It will also show the contact details
 
 
 ### Skeleton
@@ -106,7 +107,10 @@ The website will be broken down into five areas in order to achieve the project 
     - Oswald will be the font that is used for header and titles.
     - Roboto will be the font used for the paragraph text.
 - Colour scheme:
-    - As of now, the colour palette I have decided on is a combination of navy blue, maroon, green and white (This may change).
+    ![Colour Scheme](readme-images/colour-scheme.png)
+    - I decided to use two primary colour gradients.
+    - For the navbar and background, there was a gradual blending from Pewter Blue to Black Coral.
+    - For the foreground elements and footer, there was a gradual blending from Raw Sienne to Deep Chestnut.
 - Images:
     - I will use images of The Saw Doctors band.
 - Effects:
