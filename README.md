@@ -12,6 +12,7 @@ Link to the deployed website is [here](https://jamessinnott1994.github.io/saw-do
     - [Skeleton](#skeleton)
     - [Surface](#surface)
 - [Technologies](#technologies)
+- [Deployment](#deployment)
 
 ## User Experience (UX)
 
@@ -117,6 +118,7 @@ The website will be broken down into five areas in order to achieve the project 
     - There will be a hover effect over the links in the navigation bar.
     - There will be a hover effect over the social media icons in the footer of the page.
 
+---
 ## Technologies
 
 ### Workspace
@@ -142,3 +144,18 @@ The website will be broken down into five areas in order to achieve the project 
 ### Wireframes
 
 - Balsamiq
+
+---
+## Deployment
+### Deploying to Github pages
+The site is deployed on GitHub pages. The setup involved was:
+
+- Using Git, I pushed all my committed code to my repository at [https://github.com/JamesSinnott1994/saw-doctors](https://github.com/JamesSinnott1994/saw-doctors).
+- Opened the "Settings" tab in my project repository.
+- Scrolled down to 'Github Pages' section.
+- Selected 'main' branch and 'root' folder to deploy to GitHub pages, and pressed 'Save'.
+- Navigated to https://jamessinnott1994.github.io/saw-doctors/ to view deployed website.
+
+### Creating a local clone
+- Project can be downloaded as a .zip file by clicking the 'Code' button in the project repository and clicking 'Download ZIP'.
+- Project can also be cloned by entering `git clone https://github.com/JamesSinnott1994/saw-doctors.git` in the terminal.
