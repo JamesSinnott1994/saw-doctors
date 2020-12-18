@@ -172,7 +172,17 @@ The site is deployed on GitHub pages. The setup involved was:
 ---
 ## Credits
 
-### Code
+### Code Attribution
+- Used code relating to the [Bootstrap Navbar](https://getbootstrap.com/docs/4.5/components/navbar/).
+- Used code relating to the [Bootstrap Card component](https://getbootstrap.com/docs/4.5/components/card/).
+- Used [this code from W3Schools](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_opacity) for making a button appear when you hover over it's container.
+- Got help from [this StackOverflow post](https://stackoverflow.com/questions/22947703/bootstrap-3-text-align-change-at-breakpoint) for setting text alignment at different breakpoints.
+- Got help with doing the Footer code from the Code Institute's [Resume Project](https://learn.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/b51f7b8b815c4bcd9979d2281b6d97a9/) in the User Centric Frontend Development module.
+- Used [this code from MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient()) for doing the gradual colour blending with the background and foreground colours.
+- Used [this code](https://www.w3schools.com/cssref/css3_pr_align-items.asp) and also [this code](https://www.w3schools.com/cssref/css3_pr_justify-content.asp) from W3Schools for centering the h1 element at the bottom of the hero image.
+- Used [this code](https://www.w3schools.com/howto/howto_css_custom_scrollbar.asp) from W3Schools for creating a custom scrollbar.
+- Used [this code](https://getbootstrap.com/docs/4.0/utilities/embed/) from Bootstrap for creating a video embed.
+- Used code relating to the [Bootstrap Form](https://getbootstrap.com/docs/4.5/components/forms/).
 
 ### Image Source Attribution
 - [Hero image](https://www.facebook.com/notes/10155149986579611/)
@@ -214,5 +224,6 @@ The site is deployed on GitHub pages. The setup involved was:
 ### Acknowledgements
 I would like to thank:
 - My mentor [Maranatha Ilesanmi](https://ng.linkedin.com/in/ilesanmimaranatha) for his very helpful advice during the project meetings.
+- Anna Greaves for her videos on doing the Readme document.
 - The Slack Community for help with certain problems.
 - Tutor Support for help with certain problems. 
