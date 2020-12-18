@@ -197,4 +197,16 @@ The site is deployed on GitHub pages. The setup involved was:
 - [N17 Hoodie](https://i.etsystatic.com/24014896/r/il/e65ffb/2455347092/il_794xN.2455347092_4eiy.jpg)
 - [N17 T-Shirt](https://i.etsystatic.com/24014896/r/il/076fce/2417159214/il_794xN.2417159214_193n.jpg)
 - [Davy Carton T-Shirt](https://i.etsystatic.com/21646721/r/il/889e95/2139346923/il_794xN.2139346923_jcee.jpg)
+
+### Video Source Attribution
+- [The Saw Doctors - I Useta Lover (Official Video 2007 Re-Release)](https://youtu.be/3TRJ5CG_jIs)
+
+### Spotify Source Attribution
+- [N17](https://open.spotify.com/embed/track/6AiLTwftiFAjGsnVDXBPnB)
+- [Share The Darkness](https://open.spotify.com/embed/track/25t7WSS08fkvHqNGofrF2p)
+- [To Win Just Once](https://open.spotify.com/embed/track/5wwzdorcjZQnRIaHNjSlQL)
+- [That's What She Said Last Night](https://open.spotify.com/embed/track/5kaV5y9HpNLk10hKSC1yOk)
+- [Stars Over Cloughanover](https://open.spotify.com/embed/track/7vnUzcDDHVv06ZthoeXUat)
+- [Never Mind The Strangers](https://open.spotify.com/embed/track/7qk0L6mBEK2wTasztX6MgA)
+
 ### Acknowledgements
