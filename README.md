@@ -171,7 +171,9 @@ The site is deployed on GitHub pages. The setup involved was:
 
 ---
 ## Credits
+
 ### Code
+
 ### Image Source Attribution
 - [Hero image](https://www.facebook.com/notes/10155149986579611/)
 - [Latest News](https://scontent.fdub5-1.fna.fbcdn.net/v/t31.0-8/12711149_10153496293349611_4157838600472024111_o.jpg?_nc_cat=106&ccb=2&_nc_sid=2d5d41&_nc_ohc=StOMKz-9brkAX8BMeBI&_nc_oc=AQkKfMAfD3Mkm83LigecZCXUqzuerKqxtLfhSuCgJavOTgBJtwODJahMcE3WGIueRWuPjiuHy2sgSHg0ijVU6cy9&_nc_ht=scontent.fdub5-1.fna&oh=cf52c9334f163d64e3402be24e5ef87b&oe=6001A46F)
@@ -210,3 +212,7 @@ The site is deployed on GitHub pages. The setup involved was:
 - [Never Mind The Strangers](https://open.spotify.com/embed/track/7qk0L6mBEK2wTasztX6MgA)
 
 ### Acknowledgements
+I would like to thank:
+- My mentor [Maranatha Ilesanmi](https://ng.linkedin.com/in/ilesanmimaranatha) for his very helpful advice during the project meetings.
+- The Slack Community for help with certain problems.
+- Tutor Support for help with certain problems. 
