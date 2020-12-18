@@ -172,8 +172,29 @@ The site is deployed on GitHub pages. The setup involved was:
 ---
 ## Credits
 ### Code
-### Images Source Attribution
-- Hero image:
-    - https://www.facebook.com/sawdoctors/
-
+### Image Source Attribution
+- [Hero image](https://www.facebook.com/notes/10155149986579611/)
+- [Latest News](https://scontent.fdub5-1.fna.fbcdn.net/v/t31.0-8/12711149_10153496293349611_4157838600472024111_o.jpg?_nc_cat=106&ccb=2&_nc_sid=2d5d41&_nc_ohc=StOMKz-9brkAX8BMeBI&_nc_oc=AQkKfMAfD3Mkm83LigecZCXUqzuerKqxtLfhSuCgJavOTgBJtwODJahMcE3WGIueRWuPjiuHy2sgSHg0ijVU6cy9&_nc_ht=scontent.fdub5-1.fna&oh=cf52c9334f163d64e3402be24e5ef87b&oe=6001A46F)
+- [Who We Are image](https://scontent.fdub5-1.fna.fbcdn.net/v/t1.0-9/85096778_1382518601927742_7823035659806834688_o.jpg?_nc_cat=106&ccb=2&_nc_sid=dd9801&_nc_ohc=kR8tAbI3bRQAX9sBaDc&_nc_ht=scontent.fdub5-1.fna&oh=b015b5706e1e83ce2bdd11b0f55748c3&oe=600171E1)
+- [N17 image](https://www.irishtimes.com/polopoly_fs/1.4314214!/image/image.jpg_gen/derivatives/landscape_620/image.jpg)
+- ["I Useta Lover"](https://images-na.ssl-images-amazon.com/images/I/71rI4MXnmSL._SX522_.jpg)
+- ["Sing A Powerful Song"](https://img.discogs.com/mUckRLC0IFWz2rlDgYS2iRnZzdQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6235834-1425663163-9451.jpeg.jpg)
+- ["The Cure"](https://cdn.webshopapp.com/shops/134936/files/63754486/the-saw-doctors-cure.jpg)
+- [Current Band](https://scontent.fdub5-1.fna.fbcdn.net/v/t31.0-8/p720x720/14500490_10154091898674611_5642841185723893523_o.jpg?_nc_cat=108&ccb=2&_nc_sid=2d5d41&_nc_ohc=pUMNgvZ1r-sAX9VvqyS&_nc_ht=scontent.fdub5-1.fna&tp=6&oh=b202585bda878b8d609558bfe1ed41e0&oe=6002B243)
+- [Davy Carton image](https://www4.pictures.zimbio.com/gi/Davy+Carton+Saw+Doctors+Concert+w-n-Ge4nZRkl.jpg)
+- [Leo Moran image](https://www3.pictures.zimbio.com/gi/Leo+Moran+Saw+Doctors+Concert+fUNIFsHNvVHl.jpg)
+- [Anthony Thistlewaite](https://alchetron.com/cdn/anthony-thistlethwaite-dfe7a0d0-ca60-4cb4-ba4a-81ef14eeaa8-resize-750.jpeg)
+- [Kieran Duddy image](https://scontent.fdub5-1.fna.fbcdn.net/v/t31.0-8/p720x720/14500490_10154091898674611_5642841185723893523_o.jpg?_nc_cat=108&ccb=2&_nc_sid=2d5d41&_nc_ohc=pUMNgvZ1r-sAX9VvqyS&_nc_ht=scontent.fdub5-1.fna&tp=6&oh=b202585bda878b8d609558bfe1ed41e0&oe=6002B243)
+- [Will Merrigan image](https://scontent.fdub5-1.fna.fbcdn.net/v/t1.0-9/18268309_715176561995286_4160645154993523353_n.jpg?_nc_cat=102&ccb=2&_nc_sid=110474&_nc_ohc=ixh5BhJa1RYAX_m08IW&_nc_ht=scontent.fdub5-1.fna&oh=e21acd317117719f43f3f48f9770d327&oe=600421DF)
+- [Rickie O'Neill image](https://declanroche.files.wordpress.com/2012/06/sawdoctors-6.jpg)
+- ["If This Is Rock and Roll, I Want My Old Job Back"](https://img.discogs.com/eB9AZRCxrcvJsP-FBY1eYXyIpTA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5129550-1503234992-7323.jpeg.jpg)
+- ["All the Way from Tuam"](https://img.discogs.com/h74WHZ0BnnAqKdnJ0PgYJ2qxIm0=/fit-in/400x396/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5380664-1425715594-8145.jpeg.jpg)
+- ["Same Oul' Town"](https://upload.wikimedia.org/wikipedia/en/e/e2/Same_Oul%27_Town_%28Saw_Doctors_album_cover%29.jpg)
+- ["Songs From Sun Street"](https://img.discogs.com/IB4gYONS1pTD9XiEDkMoxZpF3IY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4609218-1369837107-5377.jpeg.jpg)
+- ["Villains?"](https://img.discogs.com/jFR51ujAFqVyaIr2C6Oqw4alOnE=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4598498-1384724540-1937.jpeg.jpg)
+- ["The Further Adventures of... The Saw Doctors"](https://upload.wikimedia.org/wikipedia/en/e/e7/The_Further_Adventures_of..._The_Saw_Doctors.jpg)
+- [Saw Doctors T-Shirt](https://i.etsystatic.com/21646721/r/il/3e601c/2091734274/il_794xN.2091734274_5vbn.jpg)
+- [N17 Hoodie](https://i.etsystatic.com/24014896/r/il/e65ffb/2455347092/il_794xN.2455347092_4eiy.jpg)
+- [N17 T-Shirt](https://i.etsystatic.com/24014896/r/il/076fce/2417159214/il_794xN.2417159214_193n.jpg)
+- [Davy Carton T-Shirt](https://i.etsystatic.com/21646721/r/il/889e95/2139346923/il_794xN.2139346923_jcee.jpg)
 ### Acknowledgements
