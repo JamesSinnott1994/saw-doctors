@@ -156,7 +156,7 @@ h2 {
 
 .about-popup-container {
   transition: .5s ease;
-  opacity: 0;
+  opacity: 1;
   position: absolute;
   top: 85%;
   left: 50%;
@@ -178,6 +178,15 @@ h2 {
     color: #212529;
     background-color: white;
     border-color: white;
+}
+
+.custom-hover-btn {
+    color: white;
+    border-color: white;
+
+    opacity: 1;
+    transition: .5s ease;
+    backface-visibility: hidden;
 }
 
 /*--------------------------------------------ABOUT PAGE*/
@@ -231,7 +240,7 @@ h2 {
 
 .popup-container {
   transition: .5s ease;
-  opacity: 0;
+  opacity: 1;
   position: absolute;
   top: 85%;
   left: 50%;
