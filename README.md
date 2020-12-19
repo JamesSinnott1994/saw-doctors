@@ -153,6 +153,11 @@ The website will be broken down into five areas in order to achieve the project 
 ---
 ## Testing
 
+### Browser Compatability
+
+- I tested the appearance and responsiveness of the website across many different devices using Chrome Dev Toools.
+- Generally, the appearance and responsiveness is quite good on different devices.
+
 ### Code Validation
 
 Testing HTML with [The W3C Markup Validation Service ](https://validator.w3.org/)
@@ -182,6 +187,8 @@ Testing CSS with the [Jigsaw CSS Validation Service ](https://jigsaw.w3.org/css-
 ![CSS Error](readme-images/css-error.PNG)
 - The above two errors are minor, and relate to CSS selectors that are not used in my website.
 - Warnings were also discovered, but these relate mainly to "unknown vendor extensions", which can be safely ignored.
+
+### Performance Testing
 
 Testing page with Lighthouse in Chrome Dev Tools to optimise performance, accessibility, best practices and SEO
 - Lighthouse desktop report:
