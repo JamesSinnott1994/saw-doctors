@@ -14,7 +14,6 @@ Link to the deployed website is [here](https://jamessinnott1994.github.io/saw-do
     - [Surface](#surface)
 - [Technologies](#technologies)
 - [Testing](#testing)
-- [Bugs](#bugs)
 - [Deployment](#deployment)
 - [Credits](#credits)
 
