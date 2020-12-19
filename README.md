@@ -172,6 +172,11 @@ Testing HTML with [The W3C Markup Validation Service ](https://validator.w3.org/
 
 ![Contact Page Errors](readme-images/contact-page-errors.PNG)
 
+- Resolution of errors:
+    - Home page errors were resolved by adding the button classes to the anchor tag.
+    - Media page errors were resolved by removed those obsolete attributes.
+    - Contact page errors were resolved by changing the input type from "name" to "text".
+
 ---
 ## Bugs
 **Bug:** Burger menu wasn't showing dropdown of navigation links when clicked.
