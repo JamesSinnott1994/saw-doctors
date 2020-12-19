@@ -155,6 +155,8 @@ The website will be broken down into five areas in order to achieve the project 
 
 ---
 ## Bugs
+**Bug:**
+
 
 ---
 ## Deployment
