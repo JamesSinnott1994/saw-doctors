@@ -155,8 +155,17 @@ The website will be broken down into five areas in order to achieve the project 
 
 ---
 ## Bugs
-**Bug:**
+**Bug:** Burger menu wasn't showing dropdown of navigation links when clicked.
 
+**Fix:** The solution was to revisit the "Progressive Enhancement With JavaScript Components - Part 1" lesson from the User Centric Frontend Development module, where I saw that jQuery, Popper, and Bootstrap scripts had to be included at the bottom of the body element to make the dropdown menu work properly.
+
+**Bug:** Problem with horizontal scrolling on the contact page.
+
+**Fix:** Solution was to set the margin to 0 for the Bootstrap row where the problem was.
+
+**Bug:** Problem with my CSS styles not updating in my browser preview.
+
+**Fix:** After asking for help on Slack, I was told that this was as a result of browser caching of my old CSS stylesheet. The solution therefore was to use a hard refresh of the page, done by holding Shift + refreshing the page.
 
 ---
 ## Deployment
