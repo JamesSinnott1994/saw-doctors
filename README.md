@@ -177,6 +177,12 @@ Testing HTML with [The W3C Markup Validation Service ](https://validator.w3.org/
     - Media page errors were resolved by removed those obsolete attributes.
     - Contact page errors were resolved by changing the input type from "name" to "text".
 
+Testing CSS with the [Jigsaw CSS Validation Service ](https://jigsaw.w3.org/css-validator/)
+- While there were no errors with my own custom style.css file, the following two errors were discovered in Bootstrap's style sheet:
+![CSS Error](readme-images/css-error.PNG)
+- The above two errors are minor, and relate to CSS selectors that are not used in my website.
+- Warnings were also discovered, but these relate mainly to "unknown vendor extensions", which can be safely ignored.
+
 ---
 ## Bugs
 **Bug:** Burger menu wasn't showing dropdown of navigation links when clicked.
