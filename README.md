@@ -1,4 +1,5 @@
 # The Saw Doctors
+![image](readme-images/mockup.PNG)
 Website created for fans of “The Saw Doctors”, an Irish band from County Galway, who hold the record for Ireland’s all-time biggest-selling single “I Useta lover”.
 
 Link to the deployed website is [here](https://jamessinnott1994.github.io/saw-doctors/).
@@ -17,6 +18,7 @@ Link to the deployed website is [here](https://jamessinnott1994.github.io/saw-do
 - [Deployment](#deployment)
 - [Credits](#credits)
 
+---
 ## User Experience (UX)
 
 ### User Stories
