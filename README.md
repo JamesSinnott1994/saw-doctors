@@ -153,6 +153,25 @@ The website will be broken down into five areas in order to achieve the project 
 ---
 ## Testing
 
+### Code Validation
+
+Testing HTML with [The W3C Markup Validation Service ](https://validator.w3.org/)
+- Home page errors discovered when run through validation:
+
+![Home Page Errors](readme-images/home-page-errors.png)
+
+- There were no errors on the About page.
+
+- For the Media page the following two errors were discovered for each of the six Spotify music clips:
+
+![Media Page Errors](readme-images/media-page-errors.PNG)
+
+- There were no errors on the Shop page.
+
+- For the Contact page the following errors were discovered:
+
+![Contact Page Errors](readme-images/contact-page-errors.PNG)
+
 ---
 ## Bugs
 **Bug:** Burger menu wasn't showing dropdown of navigation links when clicked.
