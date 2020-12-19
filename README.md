@@ -183,6 +183,15 @@ Testing CSS with the [Jigsaw CSS Validation Service ](https://jigsaw.w3.org/css-
 - The above two errors are minor, and relate to CSS selectors that are not used in my website.
 - Warnings were also discovered, but these relate mainly to "unknown vendor extensions", which can be safely ignored.
 
+Testing page with Lighthouse in Chrome Dev Tools to optimise performance, accessibility, best practices and SEO
+- Lighthouse desktop report:
+![Lighthouse Desktop Report](readme-images/home-desktop-performance.PNG)
+
+- Lighthouse mobile report:
+![Lighthouse Mobile Report](readme-images/home-mobile-performance.PNG)
+
+- Accessibility, Best Practices and SEO were roughly the same on desktop and mobile, the only difference was in performance. Performance was roughly 92 on desktop and 73 on mobile. This was largely as a result of loading the hero image.
+
 ---
 ## Bugs
 **Bug:** Burger menu wasn't showing dropdown of navigation links when clicked.
