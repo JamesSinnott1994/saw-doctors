@@ -34,14 +34,14 @@ main {
 }
 
 #hero-outer {
-    height: 40vh;
+    height: 80vh;
     padding: 0;
     margin: 0;
     border-bottom: 4px solid white;
 }
 
 #hero-image {
-    background-image: url("../images/hero-image.PNG");
+    background-image: url("../images/hero-image.jpg");
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;

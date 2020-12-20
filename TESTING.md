@@ -46,6 +46,10 @@ Testing page with Lighthouse in Chrome Dev Tools to optimise performance, access
 
 - Accessibility, Best Practices and SEO were roughly the same on desktop and mobile, the only difference was in performance. Performance was roughly 92 on desktop and 73 on mobile. This was largely as a result of loading the hero image.
 
+- The hero image was orignally in .png format and was 848 KB. I decided then to convert it to .jpg format which reduced the size to 85.3 KB. Using the .jpg version led to a major improvement in performance on mobile as can be seen from the screenshot below:
+![Lighthouse Post-Optimisation Mobile Report](readme-images/home-mobile-post-performance.PNG)
+
+
 ---
 ## Bugs
 **Bug:** Burger menu wasn't showing dropdown of navigation links when clicked.
