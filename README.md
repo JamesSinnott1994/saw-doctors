@@ -31,7 +31,7 @@ As a **fan**, I want:
 
 As a **potential fan**, I want:
 1.	The ability to navigate through the site in a smooth and intuitive fashion.
-2.	The ability to watch and listen to some of the band's music videos.
+2.	The ability to watch and listen to some of the band's music videos and clips.
 3.	The ability to find out more about those involved in the band and their history.
 
 As a **site owner**, I want:
@@ -39,7 +39,7 @@ As a **site owner**, I want:
 2.	To provide contact information for booking and other queries.
 3.	To sell more of the band's music/merchandise.
 4.	To provide details about the band's history and members.
-5.	To showcase some of the band's best known songs with videos.
+5.	To showcase some of the band's best known songs with videos and music clips.
 6.	To provide links to the band's social media accounts.
 
 ### Strategy
