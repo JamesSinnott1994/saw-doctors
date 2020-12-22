@@ -81,8 +81,8 @@ The website will be broken down into five areas in order to achieve the project 
 - The Shop Page will allow fans to purchase the band’s music/merchandise.
 - At least eight album pictures will be shown on this page, with four being arranged on each line. Underneath the album picture, the name of the album and it’s price will be displayed. A button will also be here that will allow the user to buy the album.
 5.	Contact Page:
-- The Contact Page will contain a simple form which will allow fans and potential fans to contact the band for booking and general queries
-- It will also show the contact details
+- The Contact Page will contain a simple form which will allow fans and potential fans to contact the band for booking and general queries.
+- It will also show the contact details.
 
 
 ### Skeleton
@@ -116,10 +116,14 @@ The website will be broken down into five areas in order to achieve the project 
     - I decided to use two primary colour gradients.
     - For the navbar and background, there was a gradual blending from Pewter Blue to Black Coral.
     - For the foreground elements and footer, there was a gradual blending from Raw Sienne to Deep Chestnut.
-- Images:
+- Media:
     - I will use images of The Saw Doctors band.
+    - I will use a music video of the band.
+    - I will use Spotify music clips from the band.
 - Effects:
     - There will be a hover effect over the links in the navigation bar.
+    - There will be a hover effect over some of the images, particulary on the Shop page.
+    - There will be a hover effect over the buttons.
     - There will be a hover effect over the social media icons in the footer of the page.
 
 ---
