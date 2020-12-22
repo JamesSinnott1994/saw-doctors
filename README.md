@@ -224,6 +224,9 @@ The site is deployed on GitHub pages. The setup involved was:
 - [Stars Over Cloughanover](https://open.spotify.com/embed/track/7vnUzcDDHVv06ZthoeXUat)
 - [Never Mind The Strangers](https://open.spotify.com/embed/track/7qk0L6mBEK2wTasztX6MgA)
 
+### History Content Attribution
+- [Band Biography by Craig Harris](https://www.allmusic.com/artist/the-saw-doctors-mn0000897035/biography)
+
 ### Acknowledgements
 I would like to thank:
 - My mentor [Maranatha Ilesanmi](https://ng.linkedin.com/in/ilesanmimaranatha) for his very helpful advice during the project meetings.
